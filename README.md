@@ -7,6 +7,13 @@ Horiseon website challenge for Module 1 of UC Berkeley Coding Bootcamp
 https://marcobjj.github.io/module1/ 
 ```
 
+### Screenshots
+
+
+![Screenshot 1](/screenshots/1.jpg?raw=true) 
+![Screenshot 2](/screenshots/2.jpg?raw=true) 
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing. 
