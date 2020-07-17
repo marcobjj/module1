@@ -4,7 +4,7 @@ Horiseon website challenge for Module 1 of UC Berkeley Coding Bootcamp
 
 ## Deployment url
 ```
-[https://marcobjj.github.io/module1/](https://marcobjj.github.io/module1/)   
+https://marcobjj.github.io/module1/ 
 ```
 
 ## Getting Started
@@ -31,10 +31,11 @@ for macOS
 $ cd /Users/user/my_project
 ```
 
-$ cd
+for Windows
 ```
-C:/Users/user/my_project
+$ cd C:/Users/user/my_project
 ```
+
 
 and type:
 ```
