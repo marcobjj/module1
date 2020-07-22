@@ -19,7 +19,19 @@ p {
     font-size: 16px;
 }
 
-/* Starts header */
+/* Utility classes */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Header classes*/
 
 header {
     padding: 20px;
@@ -39,7 +51,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Navigation bar begins */
+/* Navigation bar ckasses */
 
 nav {
     padding-top: 15px;
@@ -69,9 +81,9 @@ nav ul li {
     background-position: center;
 }
 
-/* Services section  */
+/* Services section classes */
 
-/* services general rules */
+
 
 .services {
     width: 75%;
@@ -79,17 +91,7 @@ nav ul li {
     margin-left: 20px;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/* service sub-section general rules*/
+/* service sub-sections*/
 
 .services-subsection {
     margin-bottom: 20px;
@@ -115,9 +117,9 @@ nav ul li {
 
 }
 
-/* Benefits section begins */
+/* Benefits section classes */
 
-/* benefits section general rules */
+
 
 .benefits {
     margin-right: 20px;
@@ -130,7 +132,7 @@ nav ul li {
     background-color: #2589bd;
 }
 
-/* benefit sub-section general rules */
+/* benefit sub-sections */
 
 .benefit-subsection {
     margin-bottom: 32px;
@@ -152,9 +154,8 @@ nav ul li {
     max-width: 150px;
 }
 
-/* Footer Begins */
+/* Footer classes */
 
-/*footer general rules */
 
 footer {
     padding: 30px;
